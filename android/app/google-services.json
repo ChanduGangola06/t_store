@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "187682652489",
+    "project_id": "t-store-3d785",
+    "storage_bucket": "t-store-3d785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187682652489:android:f2d794cd4367b48cac1a98",
+        "android_client_info": {
+          "package_name": "com.users.t_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187682652489-fdkq7i6engb6v3dncprqq1fck5586rvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.users.t_store",
+            "certificate_hash": "459bed19706421d5d71a57fb55c32743bce64fe8"
+          }
+        },
+        {
+          "client_id": "187682652489-emmgnmd8n3mefbm4q2t2fk73gf64rc79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMutYB816rh0jtLm-7p-K79bUpIR_irjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187682652489-emmgnmd8n3mefbm4q2t2fk73gf64rc79.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "187682652489-agroeq1q2nfoe3p5t066dq27qm21dqoq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.users.tStore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
